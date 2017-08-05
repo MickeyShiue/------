@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Design_Patten加減乘除\Design_Patten加減乘除\bin\Debug\Design_Patten加減乘除.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Design_Patten加減乘除\Design_Patten加減乘除\bin\Debug\Design_Patten加減乘除.exe
+c:\users\user\documents\visual studio 2017\Projects\Design_Patten加減乘除\Design_Patten加減乘除\bin\Debug\Design_Patten加減乘除.pdb
+c:\users\user\documents\visual studio 2017\Projects\Design_Patten加減乘除\Design_Patten加減乘除\obj\Debug\Design_Patten加減乘除.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Design_Patten加減乘除\Design_Patten加減乘除\obj\Debug\Design_Patten加減乘除.exe
+c:\users\user\documents\visual studio 2017\Projects\Design_Patten加減乘除\Design_Patten加減乘除\obj\Debug\Design_Patten加減乘除.pdb
